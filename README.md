@@ -1,4 +1,4 @@
-# Welcome to the Industrial Instrumentation Course!
+# Industrial Intrumentation
 
 This course offers a comprehensive curriculum for self-study.
 
