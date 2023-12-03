@@ -21,7 +21,38 @@ Join us in exploring industrial instrumentation through a lifelong-access curric
 | Intermediate Algebra | [OpenStax](https://openstax.org/details/books/intermediate-algebra-2e)
 | College Algebra | [OpenStax](https://openstax.org/details/books/college-algebra-corequisite-support-2e)
 | Trigonometry | [OpenStax](https://mecmath.net/trig/Trigonometry.pdf)
-| Precalculus | [OpenStax](https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus_2e-WEB.pdf)
 | Introductory Physics | [OpenStax](https://openstax.org/details/books/physics)
 | Introductory Chemistry | [OpenStax](https://openstax.org/details/books/chemistry-2e)
+| Precalculus | [OpenStax](https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus_2e-WEB.pdf)
+
+
+**Introduction to Industrial Instrumentation and Automation**
+| Content |  Study Resource
+|-- | -- |
+| Arduino Course for Beginners | [freeCodeCamp](https://www.youtube.com/watch?v=zJ-LqeX_fLU)
+| Basic Electronics | [CodeNMore](https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
+| Loop Systems, Instruments and Identification | [Click here](https://github.com/lcafer/Instrumentation/blob/main/texts/Loop%20Systems,%20Instruments%20and%20Identification)
+| Project | [Click here](https://github.com/lcafer/Instrumentation/blob/main/projects/Introduction%20to%20Industrial%20Instrumentation%20and%20Automation)
+
+
+### Intrumentation Engineering
+
+**Phase I**
+| Content |  Study Resource
+|-- | -- |
+| Calculus 1 | [OpenStax](https://openstax.org/details/books/calculus-volume-1)
+| Calculus 2 | [OpenStax](https://openstax.org/details/books/calculus-volume-2)
+| Calculus 3 | [OpenStax](https://openstax.org/details/books/calculus-volume-3)
+| Physics I: Classical Mechanics | [MIT OCW](http://www.infocobuild.com/education/audio-video-courses/physics/8-01-physics-i-mitocw.html)
+|Physics II: Electricity And Magnetism | [MIT OCW](http://www.infocobuild.com/education/audio-video-courses/physics/8-02-electricity-and-magnetism-mitocw.html)
+| Introduction To Electrical Engineering And Computer Science I | [MIT OCW](https://ocw.mit.edu/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
+| Differential Equations | [William F. Trench](https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1007&context=mono)
+| Introduction To EECS II: Digital Communication Systems | [MIT OCW](https://ocw.mit.edu/courses/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/)
+
+
+
+
+
+
+
 
