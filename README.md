@@ -45,13 +45,13 @@ Join us in exploring industrial instrumentation through a lifelong-access curric
 | Content |  Study Resource
 |-- | -- |
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
+| Project | [Click here](https://github.com/lcafer/Instrumentation/blob/main/projects/Instrument%20Technician)https://github.com/lcafer/Instrumentation/blob/main/projects/Instrument%20Technician) |
 
 
 ### Intrumentation Engineering
 
-**Core Subjects**
-| Content |  Study Resource
-|-- | -- |
+# Hold
+
 
 
 
