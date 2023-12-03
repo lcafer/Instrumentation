@@ -10,14 +10,18 @@ Join us in exploring industrial instrumentation through a lifelong-access curric
 
 ## Curriculum
 
-**Foundational Studies**
-| Content | Video Source | Textbook
-|--|--| -- |
-| Intermediate Algebra | [Professor Leonard](https://www.youtube.com/watch?v=0EnklHkVKXI&list=PLC292123722B1B450) | [OpenStax](https://openstax.org/details/books/intermediate-algebra-2e) |
-| College Algebra | [GreeneMath.com](https://www.youtube.com/watch?v=AuixBGkLjfo&list=PLgIi4lM74yW0ChmzTdT1w5ruCnqP0bv3J&index=7) | [OpenStax](https://openstax.org/details/books/college-algebra-corequisite-support-2e) |
-| Trigonometry | [GreeneMath.com](https://www.youtube.com/watch?v=rBT1iAqlzHY) | [Michael Corral](https://mecmath.net/trig/) |
-| High-School Physics | [Professor Dave Explains](https://www.youtube.com/playlist?list=PLybg94GvOJ9HjfcQeJcNzLUFxa4m3i7FW) | [OpenStax](https://openstax.org/details/books/physics)
-| High-School Chemistry | [Professor Dave Explains](https://www.youtube.com/playlist?list=PLybg94GvOJ9EbbO2RXPWTUNIIE0C7hSfm) | [OpenStax](https://openstax.org/details/books/chemistry-2e)
+### The Foundation
 
-**Foundational Eletromechanic and Instrumentation**
+**Foundational Studies: Prerequisites**
+| Content |  Study Resource
+|-- | -- |
+| Arithmetic | [Khan Academy](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)
+| Basic geometry and measurement | [Khan Academy](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)
+| Prealgebra | [OpenStax](https://openstax.org/details/books/prealgebra-2e)
+| Intermediate Algebra | [OpenStax](https://openstax.org/details/books/intermediate-algebra-2e)
+| College Algebra | [OpenStax](https://openstax.org/details/books/college-algebra-corequisite-support-2e)
+| Trigonometry | [OpenStax](https://mecmath.net/trig/Trigonometry.pdf)
+| Precalculus | [OpenStax](https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus_2e-WEB.pdf)
+| Introductory Physics | [OpenStax](https://openstax.org/details/books/physics)
+| Introductory Chemistry | [OpenStax](https://openstax.org/details/books/chemistry-2e)
 
