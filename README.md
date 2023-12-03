@@ -1,12 +1,6 @@
 # Welcome to the Industrial Instrumentation Course!
 
-This course offers a comprehensive curriculum for self-study, ensuring lifelong access to our outlined syllabus. Similar to the Open Source Society University model, we aim to provide an extensive curriculum covering various essential topics in industrial instrumentation.
-
-Our curriculum spans foundational subjects like mathematics, physics, and chemistry, progressing to advanced concepts in electronics, mechanics, and project management within industrial contexts. While we don't control external study materials, we facilitate access to a structured curriculum for self-paced learning.
-
-Content includes discussions on pressure, flow, level, temperature, control theory, safety systems, and more. Learners enjoy lifelong access to our curriculum, encouraging self-assessment and community interaction.
-
-Join us in exploring industrial instrumentation through a lifelong-access curriculum designed for self-study.
+This course offers a comprehensive curriculum for self-study.
 
 ## Curriculum
 
