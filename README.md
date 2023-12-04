@@ -68,7 +68,7 @@ Instrumented Safety System
 | Calculus - Volume 3 | [OpenStax](https://openstax.org/details/books/calculus-volume-3) |
 | Physics - Volume 1 | [OpenStax](https://openstax.org/details/books/university-physics-volume-1) |
 | Physics - Volume 2 | [OpenStax](https://openstax.org/details/books/university-physics-volume-2) |
-| Physics (Unit 1 Only) - Volume 3 | [OpenStax](https://openstax.org/details/books/university-physics-volume-3) |
+| Physics - Volume 3 | [OpenStax](https://openstax.org/details/books/university-physics-volume-3) |
 
 **Mechanical Engineering**
 | Content |
