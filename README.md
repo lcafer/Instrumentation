@@ -33,7 +33,7 @@ This course offers a comprehensive curriculum for self-study.
 **General Knowledge**
 | Content |  Study Resource
 |-- | -- |
-| 18.01 - Single Variable Calculus | [MIT OCW](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) |
+| Calculus - Volume 1 | [OpenStax](https://openstax.org/details/books/calculus-volume-1) |
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
 
 **Specific Topics**
