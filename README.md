@@ -73,19 +73,24 @@ Instrumented Safety System
 **Mechanical Engineering**
 | Content |
 |-- |
+Elementos de Máquina 
+Mecânica dos Fluidos
 
 **Electrical Engineering**
 | Content |
-|-- |
+| -- |
+EECS - Full course
 
 **Chemical Engineering**
 | Content |
 |-- |
+Engenharia de Processo 
+Estudo de Gases
 
 **Computer Science**
 | Content |
-|-- |
-
+| -- |
+EECS - Full course
 
 
 
