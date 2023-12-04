@@ -1,4 +1,4 @@
-# Industrial Automation and Intrumentation 
+# Industrial Intrumentation 
 
 This course offers a comprehensive curriculum for self-study.
 
@@ -20,7 +20,7 @@ This course offers a comprehensive curriculum for self-study.
 | Precalculus | [OpenStax](https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus_2e-WEB.pdf)
 
 
-**Introduction to Industrial Instrumentation and Automation**
+**Introduction to Industrial Instrumentation**
 | Content |  Study Resource
 |-- | -- |
 | Arduino Course for Beginners | [freeCodeCamp](https://www.youtube.com/watch?v=zJ-LqeX_fLU)
@@ -36,7 +36,7 @@ This course offers a comprehensive curriculum for self-study.
 | 18.01 - Single Variable Calculus | [MIT OCW](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) |
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
 
-**Specific Knowledge**
+**Specific Topics**
 | Content |
 |-- |
 Pressure
@@ -52,6 +52,28 @@ Receivers
 Controllers
 Communication Networks
 Instrumented Safety System
+
+### Interdisciplinary Knowledge
+
+**Physics and Math**
+| Content |
+|-- |
+
+**Mechanical Engineering**
+| Content |
+|-- |
+
+**Electrical Engineering**
+| Content |
+|-- |
+
+**Chemical Engineering**
+| Content |
+|-- |
+
+**Computer Science**
+| Content |
+|-- |
 
 
 
