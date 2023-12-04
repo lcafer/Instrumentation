@@ -1,4 +1,4 @@
-# Industrial Intrumentation 
+#Industrial Intrumentation 
 
 This course offers a comprehensive curriculum for self-study.
 
