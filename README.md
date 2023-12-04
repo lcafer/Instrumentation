@@ -58,6 +58,7 @@ This course offers a comprehensive curriculum for self-study.
 **Specific Topics**
 | Content |
 |-- |
+Instrumentation Standards and Regulations
 Pressure
 Flow
 Level
@@ -70,10 +71,13 @@ Control Theory
 Receivers
 Controllers
 Communication Networks
+Industrial Cybersecurity
+Artificial Intelligence
 Instrumented Safety System
 Robotics
 Fire & Gas
 Design
+Maintenance
 
 
 
