@@ -75,6 +75,7 @@ Instrumented Safety System
 |-- |
 Elementos de Máquina 
 Mecânica dos Fluidos
+Mechatronics
 
 **Electrical Engineering**
 | Content |
@@ -83,8 +84,9 @@ EECS - Full course
 
 **Chemical Engineering**
 | Content |
-|-- |
-Engenharia de Processo 
+| -- |
+Engenharia de Processo
+Termodinâmica
 Estudo de Gases
 
 **Computer Science**
