@@ -2,6 +2,12 @@
 
 This course offers a comprehensive curriculum for self-study.
 
+**Foundations Section:** This section is aimed at individuals considering entering the field to assess whether it aligns with their interests.
+
+**Instrumentation Section:** Tailored for professionals at any level within the industry, provided they possess appropriate training and certifications as required by their country.
+
+**Important Note:** This curriculum DOES NOT grant professional licensure. To obtain licensure, individuals should approach the competent authorities in their country and engage in a course featuring practical components. As this is a curated and verified compilation of content, it is primarily theoretical in nature. Practical training in compliance with current country-specific regulations is necessary to attain professional licensure.
+
 ## Curriculum
 
 ### The Foundation
