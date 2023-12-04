@@ -36,11 +36,24 @@ This course offers a comprehensive curriculum for self-study.
 
 ### Instrumentation
 
-**General Knowledge**
+**Math**
 | Content |  Study Resource
 |-- | -- |
 | Calculus - Volume 1 | [OpenStax](https://openstax.org/details/books/calculus-volume-1) |
+| Calculus - Volume 2 | [OpenStax](https://openstax.org/details/books/calculus-volume-2) |
+| Calculus - Volume 3 | [OpenStax](https://openstax.org/details/books/calculus-volume-3) |
+
+**General Knowledge**
+| Content |  Study Resource
+|-- | -- |
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
+
+**Physics and Math**
+| Content |  Study Resource
+|-- | -- |
+| Physics - Volume 1 | [OpenStax](https://openstax.org/details/books/university-physics-volume-1) |
+| Physics - Volume 2 | [OpenStax](https://openstax.org/details/books/university-physics-volume-2) |
+| Physics - Volume 3 | [OpenStax](https://openstax.org/details/books/university-physics-volume-3) |
 
 **Specific Topics**
 | Content |
@@ -58,41 +71,9 @@ Receivers
 Controllers
 Communication Networks
 Instrumented Safety System
-
-### Interdisciplinary Knowledge
-
-**Physics and Math**
-| Content |  Study Resource
-|-- | -- |
-| Calculus - Volume 2 | [OpenStax](https://openstax.org/details/books/calculus-volume-2) |
-| Calculus - Volume 3 | [OpenStax](https://openstax.org/details/books/calculus-volume-3) |
-| Physics - Volume 1 | [OpenStax](https://openstax.org/details/books/university-physics-volume-1) |
-| Physics - Volume 2 | [OpenStax](https://openstax.org/details/books/university-physics-volume-2) |
-| Physics - Volume 3 | [OpenStax](https://openstax.org/details/books/university-physics-volume-3) |
-
-**Mechanical Engineering**
-| Content |
-|-- |
-Elementos de Máquina 
-Mecânica dos Fluidos
-Mechatronics
-
-**Electrical Engineering**
-| Content |
-| -- |
-EECS - Full course
-
-**Chemical Engineering**
-| Content |
-| -- |
-Engenharia de Processo
-Termodinâmica
-Estudo de Gases
-
-**Computer Science**
-| Content |
-| -- |
-EECS - Full course
+Robotics
+Fire & Gas
+Design
 
 
 
