@@ -62,8 +62,10 @@ Instrumented Safety System
 ### Interdisciplinary Knowledge
 
 **Physics and Math**
-| Content |
-|-- |
+| Content |  Study Resource
+|-- | -- |
+| Calculus - Volume 2 | [OpenStax](https://openstax.org/details/books/calculus-volume-2) |
+| Calculus - Volume 3 | [OpenStax](https://openstax.org/details/books/calculus-volume-3) |
 
 **Mechanical Engineering**
 | Content |
