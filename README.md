@@ -28,18 +28,10 @@ This course offers a comprehensive curriculum for self-study.
 | Loop Systems, Instruments and Identification | [Click here](https://github.com/lcafer/Instrumentation/blob/main/texts/Loop%20Systems,%20Instruments%20and%20Identification)
 | Project | [Click here](https://github.com/lcafer/Instrumentation/blob/main/projects/Introduction%20to%20Industrial%20Instrumentation%20and%20Automation)
 
-**Introductory Engineering Math**
-| Content |  Study Resource
-|-- | -- |
-| Calculus 1 | [OpenStax](https://openstax.org/details/books/calculus-volume-1)
-| Calculus 2 | [OpenStax](https://openstax.org/details/books/calculus-volume-2)
-| Calculus 3 | [OpenStax](https://openstax.org/details/books/calculus-volume-3)
-
 **Technician in Industrial Instrumentation**
 | Content |  Study Resource
 |-- | -- |
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
-| Project | [Click here](https://github.com/lcafer/Instrumentation/blob/main/projects/Instrument%20Technician)|
 
 
 ### Intrumentation Engineering
