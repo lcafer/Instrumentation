@@ -1,4 +1,4 @@
-# Industrial Intrumentation
+# Industrial Automation and Intrumentation 
 
 This course offers a comprehensive curriculum for self-study.
 
@@ -28,18 +28,30 @@ This course offers a comprehensive curriculum for self-study.
 | Loop Systems, Instruments and Identification | [Click here](https://github.com/lcafer/Instrumentation/blob/main/texts/Loop%20Systems,%20Instruments%20and%20Identification)
 | Project | [Click here](https://github.com/lcafer/Instrumentation/blob/main/projects/Introduction%20to%20Industrial%20Instrumentation%20and%20Automation)
 
-**Technician in Industrial Instrumentation**
+### Instrumentation
+
+**General Knowledge**
 | Content |  Study Resource
 |-- | -- |
+| 18.01 - Single Variable Calculus | [MIT OCW](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) |
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
 
-
-### Intrumentation Engineering
-
-# Hold
-
-
-
+**Specific Knowledge**
+| Content |
+|-- |
+Pressure
+Flow
+Level
+Temperature
+Analyzers
+Transmitters
+Explosive Atmospheres
+Control Valves
+Control Theory
+Receivers
+Controllers
+Communication Networks
+Instrumented Safety System
 
 
 
