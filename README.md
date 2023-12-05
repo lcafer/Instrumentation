@@ -56,28 +56,28 @@ This course offers a comprehensive curriculum for self-study.
 | Physics - Volume 3 | [OpenStax](https://openstax.org/details/books/university-physics-volume-3) |
 
 **Specific Topics**
-| Content |
-|-- |
+| Content |  Study Resource
+|-- | -- |
 Instrumentation Standards and Regulations
-Pressure
-Flow
-Level
-Temperature
-Analyzers
-Transmitters
-Explosive Atmospheres
-Control Valves
-Control Theory
-Receivers
-Controllers
-Communication Networks
-Industrial Cybersecurity
-Artificial Intelligence
-Instrumented Safety System
-Robotics
-Fire & Gas
-Design
-Maintenance
+Pressure | [The Process Engineer](https://www.youtube.com/watch?v=o63taEDmCOE)
+Flow | [The Process Engineer](https://www.youtube.com/watch?v=6MKYn7H4tig)
+Level | [The Process Engineer](https://www.youtube.com/watch?v=YgH7RussHA8)
+Temperature | [The Process Engineer](https://www.youtube.com/watch?v=ZApY8wwWPpg)
+Analyzers | [The Process Engineer](https://www.youtube.com/watch?v=psTWvgKIoxk)
+Transmitters | [Real Pars](https://www.realpars.com/blog/transmitter)
+Hazardous Locations | [Engineering Institute of Technology](https://www.youtube.com/watch?v=nlzXxsHcj_0)
+Control Valves | [Emerson](https://www.emerson.com/documents/automation/control-valve-handbook-en-3661206.pdf) [Videos](https://www.youtube.com/playlist?list=PLSXazcrqabne8r94ck0WxW1L2txlDRPZO)
+Control Theory |  [Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
+Sensors and Transducers | [IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNBrYuh8TYc3YNQUvKanqiRa)
+Controllers | [DCS - S Bharadwaj Reddy](https://www.youtube.com/playlist?list=PLLaIFprsTYAm_8LQghdl1a03X3wk0qMy1), [Remote Terminal Unit - Real Pars](https://www.realpars.com/blog/rtu), [Remote Terminal Unit - Control](https://control.com/technical-articles/what-is-a-remote-terminal-unit-rtu/) & [PLC, SCADA, HMI - Instrumentation Tools](https://www.youtube.com/playlist?list=PLI78ZBihrkE2WdegX1oeZnXi5j1haKC2c)
+Communication Networks | [Bryon Lewis, PE](https://www.youtube.com/playlist?list=PLt50BEIirCOMY8qrcGBdoJIAUHWXfJM6H)
+Industrial Cybersecurity | [Instrumentation Tools](https://www.youtube.com/playlist?list=PLI78ZBihrkE1EpPaG79hQFuEIN9_35EbA)
+Artificial Intelligence | [Harvard - CS50's Artificial Intelligence](https://www.youtube.com/watch?v=5NgNicANyqM)
+Safety Instrumented System | [International Society of Automation - ISA](https://www.youtube.com/watch?v=S6HD_NO5Ibg) & [Instrumentation Tools](https://www.youtube.com/watch?v=fCA2ZDUStH4&list=PLI78ZBihrkE16q3wWOVERKVd_r0wakGYF)
+Robotics | [Northwestern Robotics](https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
+Fire & Gas | [Risktec](https://www.youtube.com/playlist?list=PLcXzb5UGDh5ggxuy4dBvbBdUxdCKxiPCD)
+Design | [Petroleum Engineers Association](https://www.youtube.com/watch?v=JvX59z76K2g) & [Instrumentation Tools](https://instrumentationtools.com/list-of-instrumentation-project-engineering-documents/)
+Maintenance | [Pneumatics - Jim Pytel](https://www.youtube.com/playlist?list=PLdnqjKaksr8qM_nxfOnZhELfIlr6auQZG), [Hydraulics and Electrical Control of Hydraulic Systems - Jim Pytel](https://www.youtube.com/playlist?list=PLdnqjKaksr8ruhw85YYSSO6EWLhVVmSKm), [Motor Drives - Jim Pytel](https://www.youtube.com/playlist?list=PLdnqjKaksr8qruLl85Uq3em62PjXlSNUF), [Motor Control - Jim Pytel](https://www.youtube.com/playlist?list=PLdnqjKaksr8qRPCFkU2Q8XQe0bfo99rs6), [Pumps - Jim Pytel](https://www.youtube.com/playlist?list=PLdnqjKaksr8ppwIf4IOCwwEvpsAJYG-2a) & [Effective Maintenance Management - TPC Training](https://www.youtube.com/watch?v=eYFKWVbdzYE) 
 
 
 
