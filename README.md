@@ -78,8 +78,30 @@ Fire & Gas | [Risktec](https://www.youtube.com/playlist?list=PLcXzb5UGDh5ggxuy4d
 Design | [Petroleum Engineers Association](https://www.youtube.com/watch?v=JvX59z76K2g) & [Instrumentation Tools](https://instrumentationtools.com/list-of-instrumentation-project-engineering-documents/)
 Maintenance | [Pneumatics - Jim Pytel](https://www.youtube.com/playlist?list=PLdnqjKaksr8qM_nxfOnZhELfIlr6auQZG), [Hydraulics and Electrical Control of Hydraulic Systems - Jim Pytel](https://www.youtube.com/playlist?list=PLdnqjKaksr8ruhw85YYSSO6EWLhVVmSKm), [Motor Drives - Jim Pytel](https://www.youtube.com/playlist?list=PLdnqjKaksr8qruLl85Uq3em62PjXlSNUF), [Motor Control - Jim Pytel](https://www.youtube.com/playlist?list=PLdnqjKaksr8qRPCFkU2Q8XQe0bfo99rs6), [Pumps - Jim Pytel](https://www.youtube.com/playlist?list=PLdnqjKaksr8ppwIf4IOCwwEvpsAJYG-2a) & [Effective Maintenance Management - TPC Training](https://www.youtube.com/watch?v=eYFKWVbdzYE) 
 
+### Interdisciplinary Archives
 
+##### Mechanical Engineering
 
+**Control Engineering**
+| Content |  Study Resource
+|-- | -- |
 
+**Thermal Engineering**
+| Content |  Study Resource
+|-- | -- |
 
+**Manufacturing**
+| Content |  Study Resource
+|-- | -- |
 
+##### Electrical Engineering
+**General Knowledge**
+
+**Power Eletronics**
+
+**Cable Routing**
+
+##### Chemical Engineering
+**Types of Industries**
+
+**Chemical Equipments**
