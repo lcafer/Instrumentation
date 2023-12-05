@@ -58,8 +58,7 @@ This course offers a comprehensive curriculum for self-study.
 **Specific Topics**
 | Content |  Study Resource
 |-- | -- |
-Instrumentation Standards and Regulations
-Pressure | [The Process Engineer](https://www.youtube.com/watch?v=o63taEDmCOE)
+Instrumentation Standards and Regulations | [Control](https://control.com/technical-articles/introduction-to-codes-standards-for-instrumentation-controls-engineers/) & [Instrumentation Tools](https://instrumentationtools.com/instrumentation-standards/) | Pressure | [The Process Engineer](https://www.youtube.com/watch?v=o63taEDmCOE)
 Flow | [The Process Engineer](https://www.youtube.com/watch?v=6MKYn7H4tig)
 Level | [The Process Engineer](https://www.youtube.com/watch?v=YgH7RussHA8)
 Temperature | [The Process Engineer](https://www.youtube.com/watch?v=ZApY8wwWPpg)
