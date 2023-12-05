@@ -65,7 +65,7 @@ Temperature | [The Process Engineer](https://www.youtube.com/watch?v=ZApY8wwWPpg
 Analyzers | [The Process Engineer](https://www.youtube.com/watch?v=psTWvgKIoxk)
 Transmitters | [Real Pars](https://www.realpars.com/blog/transmitter)
 Hazardous Locations | [Engineering Institute of Technology](https://www.youtube.com/watch?v=nlzXxsHcj_0)
-Control Valves | [Emerson](https://www.emerson.com/documents/automation/control-valve-handbook-en-3661206.pdf) [Videos](https://www.youtube.com/playlist?list=PLSXazcrqabne8r94ck0WxW1L2txlDRPZO)
+Control Valves | [Fischer](https://www.emerson.com/documents/automation/control-valve-handbook-en-3661206.pdf) & [Fischer Videos](https://www.youtube.com/playlist?list=PLSXazcrqabne8r94ck0WxW1L2txlDRPZO)
 Control Theory |  [Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
 Sensors and Transducers | [IIT Delhi](https://www.youtube.com/playlist?list=PLp6ek2hDcoNBrYuh8TYc3YNQUvKanqiRa)
 Controllers | [DCS - S Bharadwaj Reddy](https://www.youtube.com/playlist?list=PLLaIFprsTYAm_8LQghdl1a03X3wk0qMy1), [Remote Terminal Unit - Real Pars](https://www.realpars.com/blog/rtu), [Remote Terminal Unit - Control](https://control.com/technical-articles/what-is-a-remote-terminal-unit-rtu/) & [PLC, SCADA, HMI - Instrumentation Tools](https://www.youtube.com/playlist?list=PLI78ZBihrkE2WdegX1oeZnXi5j1haKC2c)
