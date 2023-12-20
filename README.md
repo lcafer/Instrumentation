@@ -23,8 +23,7 @@ This course offers a comprehensive curriculum for self-study.
 | Trigonometry | [OpenStax](https://mecmath.net/trig/Trigonometry.pdf)
 | Introductory Physics | [OpenStax](https://openstax.org/details/books/physics)
 | Introductory Chemistry | [OpenStax](https://openstax.org/details/books/chemistry-2e)
-| Precalculus | [OpenStax](https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus_2e-WEB.pdf)
-
+| Statistics | [OpenStax](https://assets.openstax.org/oscms-prodcms/media/documents/Statistics-WEB.pdf)
 
 **Introduction to Industrial Instrumentation**
 | Content |  Study Resource
@@ -39,6 +38,7 @@ This course offers a comprehensive curriculum for self-study.
 **Math**
 | Content |  Study Resource
 |-- | -- |
+| Precalculus (revision of basic topics) | [OpenStax](https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus_2e-WEB.pdf)
 | Calculus - Volume 1 | [OpenStax](https://openstax.org/details/books/calculus-volume-1) |
 | Calculus - Volume 2 | [OpenStax](https://openstax.org/details/books/calculus-volume-2) |
 | Calculus - Volume 3 | [OpenStax](https://openstax.org/details/books/calculus-volume-3) |
@@ -54,5 +54,13 @@ This course offers a comprehensive curriculum for self-study.
 | Content |  Study Resource
 |-- | -- |
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
+
+**Some Resources**
+| Content |  Study Resource
+|-- | -- |
+| Bela G. Liptak - Instrumentation and Engineers Handbook Series| Paid |
+| ISA - A Guide to the Automation Body of Knowledge, Third Edition | Paid |
+| Technician Series | Paid |
+
 
 
