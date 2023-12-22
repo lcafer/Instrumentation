@@ -38,7 +38,7 @@ This course offers a comprehensive curriculum for self-study.
 **Math**
 | Content |  Study Resource
 |-- | -- |
-| Precalculus (revision of basic topics) | [OpenStax](https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus_2e-WEB.pdf)
+| Precalculus (revision of basic topics, only if you skip foundation) | [OpenStax](https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus_2e-WEB.pdf)
 | Calculus - Volume 1 | [OpenStax](https://openstax.org/details/books/calculus-volume-1) |
 | Calculus - Volume 2 | [OpenStax](https://openstax.org/details/books/calculus-volume-2) |
 | Calculus - Volume 3 | [OpenStax](https://openstax.org/details/books/calculus-volume-3) |
