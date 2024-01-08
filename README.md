@@ -55,12 +55,17 @@ This course offers a comprehensive curriculum for self-study.
 |-- | -- |
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
 
-**Some Resources**
+**Some Resources in Instrumentation**
 | Content |  Study Resource
 |-- | -- |
 | Bela G. Liptak - Instrumentation and Engineers Handbook Series| Paid |
 | ISA - A Guide to the Automation Body of Knowledge, Third Edition | Paid |
 | Technician Series | Paid |
 
+**Useful Topics of another trades**
+| Content |  Study Resource
+|-- | -- |
+| Audel - Millwrights and Mechanic Guide | Paid |
+| Eaton - Cable Tray Documents | [Free](https://www.eaton.com/us/en-us/products/support-systems/cable-tray-and-ladder-systems/cabletray-ed.html)
 
 
