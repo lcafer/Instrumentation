@@ -61,11 +61,11 @@ This course offers a comprehensive curriculum for self-study.
 | Bela G. Liptak - Instrumentation and Engineers Handbook Series| Paid |
 | ISA - A Guide to the Automation Body of Knowledge, Third Edition | Paid |
 | Technician Series | Paid |
+| Eaton - Cable Tray Documents | [Free](https://www.eaton.com/us/en-us/products/support-systems/cable-tray-and-ladder-systems/cabletray-ed.html)
+
 
 **Useful Topics of another trades**
 | Content |  Study Resource
 |-- | -- |
 | Audel - Millwrights and Mechanic Guide | Paid |
-| Eaton - Cable Tray Documents | [Free](https://www.eaton.com/us/en-us/products/support-systems/cable-tray-and-ladder-systems/cabletray-ed.html)
-
-
+| MIT - Structure and Interpretation of Computer Programs (SICP) | [Free](https://web.mit.edu/6.001/6.037/sicp.pdf) |
