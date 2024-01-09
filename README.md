@@ -28,9 +28,7 @@ This course offers a comprehensive curriculum for self-study.
 **Introduction to Industrial Instrumentation**
 | Content |  Study Resource
 |-- | -- |
-| Arduino Course for Beginners | [freeCodeCamp](https://www.youtube.com/watch?v=zJ-LqeX_fLU)
-| Basic Electronics | [CodeNMore](https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
-| Introduction to Instrumentation | [Instrumentation Academy](https://youtu.be/7if7MSqiepg)
+| Modular Electronics Learning Project | [Tony R. Kuphaldt](http://ibiblio.org/kuphaldt/socratic/model/index.html)
 | Engineering Drawing | [MIT OCW](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
 | Project | [Click Here]()
 
@@ -54,12 +52,9 @@ This course offers a comprehensive curriculum for self-study.
 **General Knowledge**
 | Content |  Study Resource
 |-- | -- |
-| Modular Electronics Learning Project | [Tony R. Kuphaldt](http://ibiblio.org/kuphaldt/socratic/model/index.html)
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
 
 
-
-| Final Project | 
 
 **Some Resources in Instrumentation**
 | Content |  Study Resource
