@@ -31,9 +31,9 @@ This course offers a comprehensive curriculum for self-study.
 | Arduino Course for Beginners | [freeCodeCamp](https://www.youtube.com/watch?v=zJ-LqeX_fLU)
 | Basic Electronics | [CodeNMore](https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
 | Loop Systems, Instruments and Identification | [Click here](https://github.com/lcafer/Instrumentation/blob/main/texts/Loop%20Systems,%20Instruments%20and%20Identification)
-| Engineering Drawing | [Click here](https://github.com/lcafer/Instrumentation/blob/main/projects/Introduction%20to%20Industrial%20Instrumentation%20and%20Automation)
-
-### Instrumentation
+| Engineering Drawing [MIT OCW](
+https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/
+### Instrumentation)
 
 **Math**
 | Content |  Study Resource
