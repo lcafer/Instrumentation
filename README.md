@@ -28,9 +28,8 @@ This course offers a comprehensive curriculum for self-study.
 **Introduction to Industrial Instrumentation**
 | Content |  Study Resource
 |-- | -- |
-| Modular Electronics Learning Project | [Tony R. Kuphaldt](http://ibiblio.org/kuphaldt/socratic/model/index.html)
-| Engineering Drawing | [MIT OCW](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
-| Project | [Click Here]()
+| Modular Electronics Learning Project | [Tony R. Kuphaldt](http://ibiblio.org/kuphaldt/socratic/model/index.html) |
+| Engineering Drawing | [MIT OCW](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/) |
 
 ### Instrumentation
 
