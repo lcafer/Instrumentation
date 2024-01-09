@@ -30,8 +30,9 @@ This course offers a comprehensive curriculum for self-study.
 |-- | -- |
 | Arduino Course for Beginners | [freeCodeCamp](https://www.youtube.com/watch?v=zJ-LqeX_fLU)
 | Basic Electronics | [CodeNMore](https://www.youtube.com/playlist?list=PLah6faXAgguOeMUIxS22ZU4w5nDvCl5gs)
-| Loop Systems, Instruments and Identification | [Click here](https://github.com/lcafer/Instrumentation/blob/main/texts/Loop%20Systems,%20Instruments%20and%20Identification)
+| Introduction to Instrumentation | [Instrumentation Academy](https://youtu.be/7if7MSqiepg)
 | Engineering Drawing | [MIT OCW](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
+| Project | [Click Here]()
 
 ### Instrumentation
 
@@ -53,7 +54,12 @@ This course offers a comprehensive curriculum for self-study.
 **General Knowledge**
 | Content |  Study Resource
 |-- | -- |
+| Modular Electronics Learning Project | [Tony R. Kuphaldt](http://ibiblio.org/kuphaldt/socratic/model/index.html)
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
+
+
+
+| Final Project | 
 
 **Some Resources in Instrumentation**
 | Content |  Study Resource
@@ -69,3 +75,4 @@ This course offers a comprehensive curriculum for self-study.
 |-- | -- |
 | Audel - Millwrights and Mechanic Guide | Paid |
 | MIT - Structure and Interpretation of Computer Programs (SICP) | [Free](https://web.mit.edu/6.001/6.037/sicp.pdf) |
+
