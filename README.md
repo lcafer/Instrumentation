@@ -1,5 +1,7 @@
 # Industrial Intrumentation 
 
+Other languages [here](https://github.com/lcafer/Instrumentation/tree/main/languages)
+
 This course offers a comprehensive curriculum for self-study.
 
 **Foundations Section:** This section is aimed at individuals considering entering the field to assess whether it aligns with their interests.
