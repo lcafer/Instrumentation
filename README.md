@@ -53,8 +53,6 @@ This course offers a comprehensive curriculum for self-study.
 |-- | -- |
 | Lessons in Industrial Instrumentation | [Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/socratic/sinst/) |
 
-
-
 **Some Resources in Instrumentation**
 | Content |  Study Resource
 |-- | -- |
@@ -74,4 +72,4 @@ This course offers a comprehensive curriculum for self-study.
 | MIT - Structure and Interpretation of Computer Programs (SICP) | [Free](https://web.mit.edu/6.001/6.037/sicp.pdf) |
 | Pascal Ackerman - Industrial Cybersecurity - Second Edition | Paid |
 | Andrew S. Tanenbaum, David J. Wetherall - Computer Networks | Paid |
-
+| Winfield Hill, Paul Horowitz - The Art of Electronics | Paid |
