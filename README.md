@@ -60,8 +60,11 @@ This course offers a comprehensive curriculum for self-study.
 |-- | -- |
 | Bela G. Liptak - Instrumentation and Engineers Handbook Series| Paid |
 | ISA - A Guide to the Automation Body of Knowledge, Third Edition | Paid |
-| Technician Series | Paid |
-| Eaton - Cable Tray Documents | [Free](https://www.eaton.com/us/en-us/products/support-systems/cable-tray-and-ladder-systems/cabletray-ed.html)
+| ISA - Technician Series | Paid |
+| ISA - Control Valve Primer: A User's Guide | Paid |
+| Eaton - Cable Tray Documents | [Free](https://www.eaton.com/us/en-us/products/support-systems/cable-tray-and-ladder-systems/cabletray-ed.html) |
+| Emerson - Control Valve Handbook | [Free](https://www.emerson.com/documents/automation/control-valve-handbook-en-3661206.pdf) |
+| Swagelok - Tube Fitter's Manual | [Free](https://www.swagelok.com/en/supplemental/tube-fitting-manual-digital-supplement) |
 
 
 **Useful Topics of another trades**
@@ -69,4 +72,6 @@ This course offers a comprehensive curriculum for self-study.
 |-- | -- |
 | Audel - Millwrights and Mechanic Guide | Paid |
 | MIT - Structure and Interpretation of Computer Programs (SICP) | [Free](https://web.mit.edu/6.001/6.037/sicp.pdf) |
+| Pascal Ackerman - Industrial Cybersecurity - Second Edition | Paid |
+| Andrew S. Tanenbaum, David J. Wetherall - Computer Networks | Paid |
 
