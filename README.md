@@ -22,7 +22,7 @@ This course offers a comprehensive curriculum for self-study.
 | Prealgebra | [OpenStax](https://openstax.org/details/books/prealgebra-2e)
 | Intermediate Algebra | [OpenStax](https://openstax.org/details/books/intermediate-algebra-2e)
 | College Algebra | [OpenStax](https://openstax.org/details/books/college-algebra-corequisite-support-2e)
-| Trigonometry | [OpenStax](https://mecmath.net/trig/Trigonometry.pdf)
+| Trigonometry | [Michael Corral](https://mecmath.net/trig/Trigonometry.pdf)
 | Introductory Physics | [OpenStax](https://openstax.org/details/books/physics)
 | Introductory Chemistry | [OpenStax](https://openstax.org/details/books/chemistry-2e)
 | Statistics | [OpenStax](https://assets.openstax.org/oscms-prodcms/media/documents/Statistics-WEB.pdf)
