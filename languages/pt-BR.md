@@ -27,6 +27,8 @@ Pré-requisitos
 Introdução a Instrumentação Industrial
 | Conteúdo |  Recurso
 |-- | -- |
+| Disciplina de instrumentação industrial | [Dra. Thais Reggina Kempner](https://www.youtube.com/playlist?list=PLnJhieIc0Sf-qoXVDV8R7-o7I7CInGpiS) |
+
 
 ### Instrumentação
 
