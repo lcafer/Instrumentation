@@ -20,7 +20,13 @@ Pré-requisitos
 | Matemática EF: 4º Ano | [Khan Academy](https://pt.khanacademy.org/math/pt-4-ano) |
 | Matemática EF: 5º Ano | [Khan Academy](https://pt.khanacademy.org/math/pt-5-ano) |
 | Portal da Matemática EF: 6º Ano ao EM: 3º Ano  | [IMPA - OBMEP](https://portaldaobmep.impa.br/index.php/site/index?a=1) |
+| Portal da Física: EF: 9º Ano ao EM: 3º Ano | [IMPA - OBMEP](https://portaldaobmep.impa.br/index.php/site/index?a=2) |
+| QUIMICA | EM AVALIAÇÃO |
 | Portal da Matemática Introdução ao Cálculo | [IMPA - OBMEP](https://portaldaobmep.impa.br/index.php/modulo/index?a=1#13) |
+
+Introdução a Instrumentação Industrial
+| Conteúdo |  Recurso
+|-- | -- |
 
 ### Instrumentação
 
