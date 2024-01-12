@@ -1,4 +1,4 @@
-# Industrial Intrumentation 
+# Industrial Instrumentation 
 
 Other languages [here](https://github.com/lcafer/Instrumentation/tree/main/languages)
 
