@@ -2,7 +2,7 @@
 
 Este curso oferece um currículo abrangente para estudo autônomo.
 
-**Seção de Fundamentos: ** Esta seção destina-se a indivíduos que estão considerando ingressar na área para avaliar se ela está alinhada com seus interesses.
+**Seção de Fundamentos:** Esta seção destina-se a indivíduos que estão considerando ingressar na área para avaliar se ela está alinhada com seus interesses.
 
 **Seção de Instrumentação:** Adaptada para profissionais em qualquer nível dentro da indústria, desde que possuam o treinamento e as certificações apropriadas exigidas por seu país.
 
