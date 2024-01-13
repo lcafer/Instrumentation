@@ -21,7 +21,9 @@ Pré-requisitos
 | Matemática EF: 5º Ano | [Khan Academy](https://pt.khanacademy.org/math/pt-5-ano) |
 | Portal da Matemática EF: 6º Ano ao EM: 3º Ano  | [IMPA - OBMEP](https://portaldaobmep.impa.br/index.php/site/index?a=1) |
 | Portal da Física: EF: 9º Ano ao EM: 3º Ano | [IMPA - OBMEP](https://portaldaobmep.impa.br/index.php/site/index?a=2) |
-| QUIMICA | EM AVALIAÇÃO |
+| Química do Ensino Médio - Marcelão da Química | [1°Ano](https://youtube.com/playlist?list=PL0LfmDSptaT098AnGV_EBcFTF_TPoHUa7)
+[2°Ano](https://youtube.com/playlist?list=PL0LfmDSptaT2FEUcshsdgpGGBeRVdVTqP)
+[3°Ano](https://youtube.com/playlist?list=PL0LfmDSptaT0mQbqDGB8cl1iqxqsCj3t1) |
 | Portal da Matemática Introdução ao Cálculo | [IMPA - OBMEP](https://portaldaobmep.impa.br/index.php/modulo/index?a=1#13) |
 
 Introdução a Instrumentação Industrial
