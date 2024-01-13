@@ -52,4 +52,5 @@ Química
 | Conteúdo | Recurso
 | -- | -- |
 | Química Geral e Inorgânica Básica | [USP](https://youtube.com/playlist?list=PLAudUnJeNg4vPBwTS8TXgo7mp-3cENkPs) |
-| Fisico-Quimica | [UNIVESP](https://youtube.com/playlist?list=PLxI8Can9yAHdHkbSPYe4rHWJowtWadyEI&feature=shared)
+| Fisico-Química I | [UNIVESP](https://youtube.com/playlist?list=PLxI8Can9yAHdHkbSPYe4rHWJowtWadyEI&feature=shared)
+| Fisico-Química II | [UNIVESP](https://youtube.com/playlist?list=PLxI8Can9yAHfwIOkO0vGy_LzUjHbcESIJ&feature=shared)
