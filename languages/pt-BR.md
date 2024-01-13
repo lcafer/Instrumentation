@@ -48,4 +48,8 @@ Física
 | Física 3 | [UNICAMP](https://www.youtube.com/playlist?list=PLO88IgIdwd68OCSLWdUyzew-warUB1Oqm) |
 | Física 4 | [UNICAMP](https://www.youtube.com/playlist?list=PLO88IgIdwd6-uNvzogs2dE06SOiN8ytiI) |
 
-
+Química 
+| Conteúdo | Recurso
+| -- | -- |
+| Química Geral e Inorgânica Básica | [USP](https://youtube.com/playlist?list=PLAudUnJeNg4vPBwTS8TXgo7mp-3cENkPs) |
+| Fisico-Quimica | [UNIVESP](https://youtube.com/playlist?list=PLxI8Can9yAHdHkbSPYe4rHWJowtWadyEI&feature=shared)
