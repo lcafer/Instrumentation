@@ -40,6 +40,7 @@ Pré-Calculo (apenas se não fez os pré requisitos da seção fundamentos e ja 
 | Cálculo 2 | [USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4sd0TEJ9EG6hr-3d3jqrddN) |
 | Cálculo 3 | [USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W) |
 | Cálculo 4 | [USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4ssEeZCZ0BOgwflysb7UZmX) |
+| Matemática Discreta | [Prof. Douglas Maioli](https://youtube.com/playlist?list=PLrOyM49ctTx-HWypJVvn_zMO1o7oOAfVx)
 
 Física
 | Conteúdo |  Recurso
