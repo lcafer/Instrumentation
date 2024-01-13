@@ -35,6 +35,7 @@ Introdução a Instrumentação Industrial
 Matemática
 | Conteúdo |  Recurso
 |-- | -- |
+Pré-Calculo (apenas se não fez os pré requisitos da seção fundamentos e ja completou o ensino médio)| [Prof. Douglas Maioli](https://youtube.com/playlist?list=PLrOyM49ctTx8FZuDF1gC4xdWfGJ3KEXhL) |
 | Cálculo 1 | [USP](https://youtube.com/playlist?list=PLAudUnJeNg4tr-aiNyYCXE46L3qEZ2Nzx) |
 | Cálculo 2 | [USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4sd0TEJ9EG6hr-3d3jqrddN) |
 | Cálculo 3 | [USP](https://www.youtube.com/playlist?list=PLAudUnJeNg4ugGUJo52dtgFZ_tCm1Ds5W) |
