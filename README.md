@@ -65,7 +65,9 @@ This course offers a comprehensive curriculum for self-study.
 | Eaton - Cable Tray Documents | [Free](https://www.eaton.com/us/en-us/products/support-systems/cable-tray-and-ladder-systems/cabletray-ed.html) |
 | Emerson - Control Valve Handbook | [Free](https://www.emerson.com/documents/automation/control-valve-handbook-en-3661206.pdf) |
 | Swagelok - Tube Fitter's Manual | [Free](https://www.swagelok.com/en/supplemental/tube-fitting-manual-digital-supplement) |
-
+| Jim Pytel | [Free](https://youtube.com/@bigbadtech) |
+| Instrumentation Tools | [Free](https://instrumentationtools.com) |
+| Real Pars | [Free](https://youtube.com/@realpars) |
 
 **Useful Topics of another trades**
 | Content |  Study Resource
