@@ -60,35 +60,4 @@ Química
 Conhecimento Geral
 | Conteúdo | Recurso
 | -- | -- |
-| Aplicação do Cálculo na Instrumentação | |
-| Conceitos de Física e Química para Instrumentação | |
-| Corrente Contínua | |
-| Corrente Alternada | |
-| Documentos de Instrumentação                |                                               |
-| Conexões de Instrumentação                  |                                               |
-| Medição de Processo Discreta                |                                               |
-| Elementos de Controle Discreto              |                                               |
-| Controladores Lógicos Programáveis          |                                               |
-| Instrumentação Eletrônica Analógica         |                                               |
-| Instrumentação Pneumática                  |                                               |
-| Aquisição de Dados Digital e Redes         |                                               |
-| Instrumentação FOUNDATION Fieldbus         |                                               |
-| Instrumentação Sem Fio                     |                                               |
-| Calibração de Instrumentos                 |                                               |
-| Medição Contínua de Pressão                |                                               |
-| Medição Contínua de Nível                   |                                               |
-| Medição Contínua de Temperatura             |                                               |
-| Medição Contínua de Fluxo de Fluidos        |                                               |
-| Medição Analítica Contínua                 |                                               |
-| Medição de Vibração de Máquinas             |                                               |
-| Medição e Controle de Energia Elétrica      |                                               |
-| Caracterização de Sinal                    |                                               |
-| Válvulas de Controle                       |                                               |
-| Controles de Motor de Velocidade Variável  |                                               |
-| Controle em Malha Fechada                  |                                               |
-| Dinâmica de Processo e Sintonia de Controladores PID |                                               |
-| Estratégias Básicas de Controle de Processo |                                               |
-| Segurança de Processo e Instrumentação    |                                               |
-| Cibersegurança em Instrumentação           |                                               |
-| Estratégias de Resolução de Problemas e Diagnóstico |                                               |
-```
+| Lições em Instrumentação Industrial | EM ANDAMENTO |
