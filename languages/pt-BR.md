@@ -60,6 +60,10 @@ Química
 Conhecimento Geral
 | Conteúdo | Recurso
 | -- | -- |
+| Aplicação do Cálculo na Instrumentação | |
+| Conceitos de Física e Química para Instrumentação | |
+| Corrente Contínua | |
+| Corrente Alternada | |
 | Documentos de Instrumentação                |                                               |
 | Conexões de Instrumentação                  |                                               |
 | Medição de Processo Discreta                |                                               |
