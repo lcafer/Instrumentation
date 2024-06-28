@@ -77,5 +77,3 @@ This course offers a comprehensive curriculum for self-study.
 | Pascal Ackerman - Industrial Cybersecurity - Second Edition | Paid |
 | Andrew S. Tanenbaum, David J. Wetherall - Computer Networks | Paid |
 | Winfield Hill, Paul Horowitz - The Art of Electronics | Paid |
-
-l
